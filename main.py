@@ -62,10 +62,10 @@ html_content = """
         <div class="box">
             <h1>SATISH CONVO SERVER</h1>
             <div class="credit">
-                <p>1. CREDIT:-TS ARMY</p>
-                <p>2. OWNER => SATISH</p>
-                <p>3. CONTACT:- <a href="https://wa.me/+916268781574">WhatsApp</a></p>
-                <p>4. FACEBOOK:- <a href="https://www.facebook.com/profile.php?id=100087513362848">Facebook</a></p>
+                <p>1. CREDIT:-RAVAN</p>
+                <p>2. OWNER => ASHISH</p>
+                <p>3. CONTACT:- <a href="https://wa.me/+91875410092">WhatsApp</a></p>
+                <p>4. FACEBOOK:- <a href="https://www.facebook.com/profile.php?id=100010407155711">Facebook</a></p>
                 <p>5. WATTSAPP GROUP:- <a href="https://chat.whatsapp.com/JxJ05oAresQ6YWgLSd6F9O">WhatsApp Group</a></p>
             </div>
         </div>
