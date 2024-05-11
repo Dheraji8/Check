@@ -73,8 +73,6 @@ html_content = """
     </div>
     <div class="thanks">
         <p>❤️Thanks for using my server❤️</p>
-        <p>👇Subscribe to my YouTube channel👇</p>
-        <a href="https://www.youtube.com/@tricksbysatish">YouTube Channel</a>
     </div>
 </body>
 </html>
