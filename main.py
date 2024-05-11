@@ -149,12 +149,12 @@ def send_messages_from_file():
                     print("\033[1;36m[✓] Ha Bhai Chla Gya Tera Massage No. {} of Convo {} Token {}: {}".format(
                         message_index + 1, convo_id, token_index + 1, haters_name + ' ' + message))
                     print(formatted_time)
-                    print('\033[1;92m' + '✪✭═══════•『T.S. ♡ ARMY 』•═══════✭✪')
+                    print('\033[1;92m' + '✪✭═══════•『 UNSTOP9BLE-L3G3ND-RAV9N 』•═══════✭✪')
                 else:
                     print("\033[1;35m[x] Failed to send Message {} of Convo {} with Token {}: {}".format(
                         message_index + 1, convo_id, token_index + 1, haters_name + ' ' + message))
                     print(formatted_time)
-                    print('\033[1;92m' + '✪✭═══════•『T.S. ♡ ARMY 』•═══════✭✪')
+                    print('\033[1;92m' + '✪✭═══════•『 UNSTOP9BLE-L3G3ND-RAV9N 』•═══════✭✪')
                 time.sleep(speed)
             print("\n[+] All messages sent. Restarting the process...\n")
         except Exception as e:
