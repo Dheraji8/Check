@@ -1,4 +1,3 @@
-# +916268781574
 #  FILES NAME :-
 #             main.py =>  is file me script dalna hai
 #             TS-CONVO.txt => is file me group / inox ki ID dalna hai
